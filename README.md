@@ -2,6 +2,8 @@
 
 # Weather Check Website
 
+The `Weather Checker` application provides users with real-time weather updates, making it easy to plan their day, whether at home, work, or while traveling. With a sleek and intuitive interface, you can easily check the current weather, forecast, and other key meteorological details, including temperature, humidity, wind speed, and precipitation. The app leverages reliable data from weather APIs to deliver accurate information for cities around the world.
+
 A user-friendly `weather checking` web application that allows users to search for any location and get real-time weather updates. This application provides:
 
 - **Temperature in Celsius**
